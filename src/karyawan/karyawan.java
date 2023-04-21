@@ -10,7 +10,7 @@ class Karyawan {
     public Karyawan(String nama, int jumlahAnak) {
         this.nama = nama;
         this.jumlahAnak = jumlahAnak;
-        this.tunjanganAnak = 500000 * jumlahAnak;
+        this.tunjanganAnak = 200000 * jumlahAnak;
     }
 
     // Method untuk menghitung total gaji
